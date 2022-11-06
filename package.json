@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.24.1",
+    "country-flag-icons": "^1.5.5",
     "i18next": "^22.0.4",
     "i18next-browser-languagedetector": "^7.0.1",
     "react": "^18.2.0",
